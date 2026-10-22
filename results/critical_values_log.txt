@@ -1,0 +1,9 @@
+Saved: src/structbreaks/data/critical_values.json
+
+Comparison with Bai & Perron (2003), ε = 0.15, α = 5%:
+q=1
+  supF(k) simulated : [8.429, 7.151, 5.924, 4.992, 3.85]
+  supF(k) BP (2003) : [8.58, 7.22, 5.96, 4.99, 3.91]
+  UDmax 8.756 vs 8.88;  WDmax 9.801 vs 9.91
+  seq  simulated    : [8.429, 9.849, 10.772, 11.653, 12.261]
+  seq  BP (2003)    : [8.58, 10.13, 11.14, 11.83, 12.25]
